@@ -10,5 +10,6 @@ project_name: "bryn_extension_core_api"
 
 application: coreapi_prototype {
   label: "Core API Prototype"
-  file: "index.js"
+  uri: "https://localhost:1234/src.fc45d0fd.js"
+#  file: "core_api_test.js"
 }
